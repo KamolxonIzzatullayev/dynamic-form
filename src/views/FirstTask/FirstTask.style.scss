@@ -1,0 +1,17 @@
+.home {
+  margin: 2rem 4rem;
+  padding: 1rem;
+  border: 1px solid;
+  border-radius: 10px;
+  box-shadow: 1px 1px 15px rgb(183, 183, 183);
+
+  &-header {
+    button {
+      padding: 0.6rem 1.2rem;
+      cursor: pointer;
+      border: 0;
+      color: white;
+      background-color: rgba(56, 56, 255, 0.84);
+    }
+  }
+}
